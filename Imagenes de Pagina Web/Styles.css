@@ -1,0 +1,22 @@
+body {
+    background-color: blueviolet;
+}
+iframe {
+    display: block;
+    border-style: none;
+}
+
+#Videos {
+    width: 50%;
+    height: 50%;
+}
+
+#Cabeza {
+    font-size:30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#AccesoVideo {
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
